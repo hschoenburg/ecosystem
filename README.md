@@ -1,6 +1,7 @@
 ### Cosmos Ecosystem Coordination
 
 - What does the Cosmos ecosystem need to succeed?
+  - First attempt in [STATE_OF_COSMOS.md](./STATE_OF_COSMOS.md)
 - What are all the entities currently doing?
   - Who within those entities?
   - Primary points of contact?

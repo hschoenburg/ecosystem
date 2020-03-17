@@ -80,7 +80,7 @@ Canadian corporation (?). [Website](https://informal.systems).
 
 ##### Resources
 
-Service agreement with ICF.
+- Convertible note, 2-year research grant, 2-year service agreement with ICF.
 
 #### Iqlusion
 
@@ -183,11 +183,13 @@ Primary contact: Gavin Birch
 
 ##### Project(s)
 
-- Governance working group
+- Governance working group (lead entity)
+- Hubble block explorer (open-source) (lead entity)
+- Staking rewards income analysis tooling (lead entity)
 
 ##### Resources
 
-- Grant from ICF
+- Community pool funding for GWG
 - Validator operations
 
 #### Lunie

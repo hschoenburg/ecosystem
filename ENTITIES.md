@@ -79,97 +79,97 @@ This is a non-comprehensive list of entities participating in "Cosmos core devel
     - Private investment
     - Staking rewards & delegation
     - Ability to hire subject to funding availability
-- Agoric
-  - US C-corporation (?).
-  - [Website](https://agoric.com/).
-  - Personnel
-    - Dean Tribble
-    - More: https://agoric.com/team/
-  - Primary contact: Dean Tribble
-  - Project(s)
-    - IBC specification design & review (helper entity)
-    - IBC implementation in Javascript (lead entity)
-    - Secure ECMAscript contract zone
-  - Resources
-    - Service agreement from ICF
--  Regen
-  - US C-corporation (?) & US non-profit foundation.
-  - [Website](https://regen.network).
-  - Personnel
-    - Aaron Craelius
-    - Gregory Landau
-    - Cory Levinson
-    - More: https://www.regen.network/team.html
-  - Primary contact: Aaron Craelius
-  - Project(s)
-    - Cosmos SDK (lead entity)
-    - Own sovereign zone
-  - Resources
-    - Service agreement with ICF
-    - Sovereign zone with native token.
-    - Ability to hire subject to funding availability.
-- Chorus One
-  - Swiss AG (?).
-  - [Website](https://chorus.one).
-  - Personnel
-    - Brian Fabian Crain
-    - Meher Roy
-    - More: https://chorus.one/about
-  - Primary contact: Brian Fabian Crain
-  - Project(s)
-    - Staking derivatives
-  - Resources
-    - Grant from ICF
-    - Validator operations
-- Figment Networks
-  - Canadian corporation (?).
-  - [Website](https://figment.network/).
-  - Personnel
-    - Gavin Birch
-    - More: https://figment.network/about-figment-networks
-  - Primary contact: Gavin Birch
-  - Project(s)
-    - Governance working group (lead entity)
-    - Hubble block explorer (open-source) (lead entity)
-    - Staking rewards income analysis tooling (lead entity)
-  - Resources
-    - Community pool funding for GWG
-    - Validator operations
-- Lunie
-  - Canadian corporation.
-  - [Website](https://lunie.io).
-  - Personnel
-    - Fabian Weber
-    - Jordan Bibla
-  - Project(s)
-    - Lunie web wallet (lead entity)
-    - Lunie iOS & Android wallets (lead entity)
-    - Lunie browser extension (lead entity)
-    - Javascript client libraries (API, keys, Ledger) (lead entity?)
-  - Resources
-    - Service agreement from ICF (?)
-    - Support from other foundations, users
-- Althea Network
-  - US C-corporation (?).
-  - [Website](https://althea.net/).
-  - Personnel
-    - Justin Kilpatrick
-    - Jehan Tremback
-    - Deborah Simpier
-    - More: https://althea.net/about
-  - Primary contact: Justin Kilpatrick
-  - Project(s)
-    - Peggy (lead entity)
-  - Resources
-    - Investment from ICF
-- Chainsafe
-  - Canadian corporation (?).
-  - [Website](https://chainsafe.io/#about).
-  - Personnel
-    - Austin
-    - Greg
-  - Primary contact: Greg
-  - Project(s)
-    - Ethermint (lead entity)
-  - Resources
-    - Service agreement with ICF
+  - Agoric
+    - US C-corporation (?).
+    - [Website](https://agoric.com/).
+    - Personnel
+      - Dean Tribble
+      - More: https://agoric.com/team/
+    - Primary contact: Dean Tribble
+    - Project(s)
+      - IBC specification design & review (helper entity)
+      - IBC implementation in Javascript (lead entity)
+      - Secure ECMAscript contract zone
+    - Resources
+      - Service agreement from ICF
+  - Regen
+    - US C-corporation (?) & US non-profit foundation.
+    - [Website](https://regen.network).
+    - Personnel
+      - Aaron Craelius
+      - Gregory Landau
+      - Cory Levinson
+      - More: https://www.regen.network/team.html
+    - Primary contact: Aaron Craelius
+    - Project(s)
+      - Cosmos SDK (lead entity)
+      - Own sovereign zone
+    - Resources
+      - Service agreement with ICF
+      - Sovereign zone with native token.
+      - Ability to hire subject to funding availability.
+  - Chorus One
+      - Swiss AG (?).
+      - [Website](https://chorus.one).
+      - Personnel
+        - Brian Fabian Crain
+        - Meher Roy
+        - More: https://chorus.one/about
+      - Primary contact: Brian Fabian Crain
+      - Project(s)
+        - Staking derivatives
+      - Resources
+        - Grant from ICF
+        - Validator operations
+  - Figment Networks
+    - Canadian corporation (?).
+    - [Website](https://figment.network/).
+    - Personnel
+      - Gavin Birch
+      - More: https://figment.network/about-figment-networks
+    - Primary contact: Gavin Birch
+    - Project(s)
+      - Governance working group (lead entity)
+      - Hubble block explorer (open-source) (lead entity)
+      - Staking rewards income analysis tooling (lead entity)
+    - Resources
+      - Community pool funding for GWG
+      - Validator operations
+  - Lunie
+    - Canadian corporation.
+    - [Website](https://lunie.io).
+    - Personnel
+      - Fabian Weber
+      - Jordan Bibla
+    - Project(s)
+      - Lunie web wallet (lead entity)
+      - Lunie iOS & Android wallets (lead entity)
+      - Lunie browser extension (lead entity)
+      - Javascript client libraries (API, keys, Ledger) (lead entity?)
+    - Resources
+      - Service agreement from ICF (?)
+      - Support from other foundations, users
+  - Althea Network
+    - US C-corporation (?).
+    - [Website](https://althea.net/).
+    - Personnel
+      - Justin Kilpatrick
+      - Jehan Tremback
+      - Deborah Simpier
+      - More: https://althea.net/about
+    - Primary contact: Justin Kilpatrick
+    - Project(s)
+      - Peggy (lead entity)
+    - Resources
+      - Investment from ICF
+  - Chainsafe
+    - Canadian corporation (?).
+    - [Website](https://chainsafe.io/#about).
+    - Personnel
+      - Austin
+      - Greg
+    - Primary contact: Greg
+    - Project(s)
+      - Ethermint (lead entity)
+    - Resources
+      - Service agreement with ICF

@@ -79,7 +79,7 @@ This is a non-comprehensive list of entities participating in "Cosmos core devel
     - Private investment
     - Staking rewards & delegation
     - Ability to hire subject to funding availability
-  - Agoric
+- Agoric
     - US C-corporation (?).
     - [Website](https://agoric.com/).
     - Personnel
@@ -92,7 +92,7 @@ This is a non-comprehensive list of entities participating in "Cosmos core devel
       - Secure ECMAscript contract zone
     - Resources
       - Service agreement from ICF
-  - Regen
+- Regen
     - US C-corporation (?) & US non-profit foundation.
     - [Website](https://regen.network).
     - Personnel
@@ -108,20 +108,20 @@ This is a non-comprehensive list of entities participating in "Cosmos core devel
       - Service agreement with ICF
       - Sovereign zone with native token.
       - Ability to hire subject to funding availability.
-  - Chorus One
-      - Swiss AG (?).
-      - [Website](https://chorus.one).
-      - Personnel
-        - Brian Fabian Crain
-        - Meher Roy
-        - More: https://chorus.one/about
-      - Primary contact: Brian Fabian Crain
-      - Project(s)
-        - Staking derivatives
-      - Resources
-        - Grant from ICF
-        - Validator operations
-  - Figment Networks
+- Chorus One
+  - Swiss AG (?).
+  - [Website](https://chorus.one).
+  - Personnel
+    - Brian Fabian Crain
+    - Meher Roy
+    - More: https://chorus.one/about
+  - Primary contact: Brian Fabian Crain
+  - Project(s)
+    - Staking derivatives
+  - Resources
+    - Grant from ICF
+    - Validator operations
+- Figment Networks
     - Canadian corporation (?).
     - [Website](https://figment.network/).
     - Personnel
@@ -135,7 +135,7 @@ This is a non-comprehensive list of entities participating in "Cosmos core devel
     - Resources
       - Community pool funding for GWG
       - Validator operations
-  - Lunie
+- Lunie
     - Canadian corporation.
     - [Website](https://lunie.io).
     - Personnel
@@ -149,7 +149,7 @@ This is a non-comprehensive list of entities participating in "Cosmos core devel
     - Resources
       - Service agreement from ICF (?)
       - Support from other foundations, users
-  - Althea Network
+- Althea Network
     - US C-corporation (?).
     - [Website](https://althea.net/).
     - Personnel
@@ -162,7 +162,7 @@ This is a non-comprehensive list of entities participating in "Cosmos core devel
       - Peggy (lead entity)
     - Resources
       - Investment from ICF
-  - Chainsafe
+- Chainsafe
     - Canadian corporation (?).
     - [Website](https://chainsafe.io/#about).
     - Personnel

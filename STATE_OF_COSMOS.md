@@ -47,10 +47,11 @@ With respect to the current primary candidate, Tendermint, this prong will consi
 - Research deployment (of new distributed systems research, e.g. pipelining, HotStuff, Flexible BFT)
 - Greater configurability as a general consensus engine (choose between algorithms)
 - Performance engineering (improved database & network performance)
-- Interface (ABCI) engineering (state machine concurrency)
+- Interface (ABCI) engineering (state machine concurrency, more flexibility)
 - Multiple implementations in separate languages (ideally wire-compatible)
 - Implementation review, auditing, and formal verification
 - Integration with secure hardware for consensus signing
+- Integration with embedded hardware for low-latency cospatial deployments
 - Secure proof-of-stake & light client algorithm design (must be considered in unison)
 
 #### State machine toolkit design & development
@@ -81,10 +82,12 @@ This prong will consist of:
 
 - Research deployment (of relevant cryptography & distributed systems research, e.g. ZKP light clients)
 - Protocol design (of the core IBC standard)
+- Protocol upgrades to new standard versions with additional options for ordering, security, authentication, etc.
+- Additional light clients for new consensus algorithms integrated with the IBC spec & implementations
 - Protocol stewardship & governance (steering committee, ecosystem working group)
 - Safety & liveness analysis of complex multi-chain topologies
 - Multiple implementations of the standard in separate languages
-- Implementation review, auditing, and verification
+- Implementation review, auditing, and verification of implementations in multiple languages
 
 #### Zone developer relations & communication
 
@@ -126,11 +129,13 @@ The Cosmos Network will need facilities, companies, and resources for operating 
 
 This prong will consist of:
 
+- Markets for cross-chain validation & security available to new zones
 - Organisations or protocols to facilitate launching zones
 - Secure, sustainable validators operating zones
 - Validators, companies, or products relaying IBC packets
-- Zone maintenance & upgrades
+- Seamless toolkits for zone maintenance & upgrades
 - Scaling zones over time in line with user demand
+- Registry of high-quality, audited, cross-compatible modules for the state machine SDKs
 
 #### End-user application infrastructure
 
@@ -141,6 +146,7 @@ This prong will consist of:
 - Libraries for transaction authoring & signing
 - Libraries for state management & authentication
 - Libraries for various cryptographic operations which must occur on the edge
+  - Key management as secure & user-familiar as with centralised services
 - Secure light client implementations for various platforms
 - Libraries for interaction with IBC, including multi-chain user flows
 

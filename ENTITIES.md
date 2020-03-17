@@ -56,7 +56,8 @@ Primary contacts: Tess, Chris G., Anna.
 
 ##### Resources
 
-Wholly-owned subsidiary of ICF; able to hire subject to ICF approval
+- Wholly-owned subsidiary of ICF
+- Able to hire subject to ICF approval
 
 #### Informal Systems
 
@@ -99,11 +100,14 @@ Primary contact: Zaki Manian
 - IBC relayer in Go (lead entity)
 - Armistice open-source HSM (lead entity)
 - Game of Zones operations (lead entity)
-- Ecosystem security & bug bounties (lead entity)
+- Ecosystem security & bug bounties (lead entity, subcontracted to Amulet)
+- Tendermint KMS (lead entity)
 - Gaia (lead entity?)
 
 ##### Resources
 
+- Private investment
+- Staking rewards & delegation
 - Ability to hire subject to funding availability
 
 #### Agoric
@@ -126,7 +130,7 @@ Primary contact: Dean Tribble
 
 #### Regen
 
-US C-corporation (?). [Website](https://regen.network).
+US C-corporation (?) & US non-profit foundation. [Website](https://regen.network).
 
 ##### Personnel
 
@@ -163,6 +167,9 @@ Primary contact: Brian Fabian Crain
 
 ##### Resources
 
+- Grant from ICF
+- Validator operations
+
 #### Figment Networks
 
 Canadian corporation (?).  [Website](https://figment.network/).
@@ -180,11 +187,12 @@ Primary contact: Gavin Birch
 
 ##### Resources
 
-Grant from ICF. Validator operations.
+- Grant from ICF
+- Validator operations
 
 #### Lunie
 
-Canadian corporation (?). [Website](https://lunie.io).
+Canadian corporation. [Website](https://lunie.io).
 
 ##### Personnel
 
@@ -193,12 +201,15 @@ Canadian corporation (?). [Website](https://lunie.io).
 
 ##### Project(s)
 
-- Lunie wallet (lead entity)
-- Javascript client libraries (lead entity?)
+- Lunie web wallet (lead entity)
+- Lunie iOS & Android wallets (lead entity)
+- Lunie browser extension (lead entity)
+- Javascript client libraries (API, keys, Ledger) (lead entity?)
 
 ##### Resources
 
-Service agreement from ICF (?)
+- Service agreement from ICF (?)
+- Support from other foundations, users
 
 #### Althea Network
 
@@ -218,3 +229,5 @@ Primary contact: Justin Kilpatrick
 - Peggy (lead entity)
 
 ##### Resources
+
+- Investment from ICF

@@ -43,6 +43,7 @@
      - Who
        - Ethan Buchman
        - Arianne Flemming
+       - Sean Braithwaite
      - Primary Contact
        - Ethan Buchman (?)
    - Iqlusion

@@ -4,7 +4,7 @@ This is a non-comprehensive list of entities participating in "Cosmos core devel
 
 #### Interchain Foundation
 
-[Website](https://interchain.io/)
+Swiss Stiftung. [Website](https://interchain.io/).
 
 ##### Personnel
 
@@ -29,7 +29,7 @@ Primary contact: Billy Rennekamp.
 
 #### Interchain GmbH
 
-[Website](https://interchain.berlin)
+German GmbH. [Website](https://interchain.berlin).
 
 ##### Personnel
 
@@ -60,7 +60,7 @@ Wholly-owned subsidiary of ICF; able to hire subject to ICF approval
 
 #### Informal Systems
 
-[Website](https://informal.systems)
+Canadian corporation (?). [Website](https://informal.systems).
 
 ##### Personnel
 
@@ -83,13 +83,14 @@ Service agreement with ICF.
 
 #### Iqlusion
 
-[Website](https://iqlusion.io)
+US C-corporation (?). [Website](https://iqlusion.io).
 
 ##### Personnel
 
 - Zaki Manian
 - Jack Zampolin
 - Jessy Irwin (subcontractor through Amulet)
+- More: https://www.iqlusion.io/#about
 
 Primary contact: Zaki Manian
 
@@ -107,11 +108,12 @@ Primary contact: Zaki Manian
 
 #### Agoric
 
-[Website](https://agoric.com/)
+US C-corporation (?). [Website](https://agoric.com/).
 
 ##### Personnel
 
 - Dean Tribble
+- More: https://agoric.com/team/
 
 Primary contact: Dean Tribble
 
@@ -124,13 +126,14 @@ Primary contact: Dean Tribble
 
 #### Regen
 
-[Website](https://regen.network)
+US C-corporation (?). [Website](https://regen.network).
 
 ##### Personnel
 
 - Aaron Craelius
 - Gregory Landau
 - Cory Levinson
+- More: https://www.regen.network/team.html
 
 Primary contact: Aaron Craelius
 
@@ -145,11 +148,12 @@ Service agreement with ICF, sovereign zone with native token. Ability to hire su
 
 #### Chorus One
 
-[Website](https://chorus.one)
+Swiss AG (?). [Website](https://chorus.one).
 
 ##### Personnel
 
 - Brian Fabian Crain
+- More: https://chorus.one/about
 
 Primary contact: Brian Fabian Crain
 
@@ -161,11 +165,12 @@ Primary contact: Brian Fabian Crain
 
 #### Figment Networks
 
-[Website](https://figment.network/)
+Canadian corporation (?).  [Website](https://figment.network/).
 
 ##### Personnel
 
 - Gavin Birch
+- More: https://figment.network/about-figment-networks
 
 Primary contact: Gavin Birch
 
@@ -179,7 +184,7 @@ Grant from ICF. Validator operations.
 
 #### Lunie
 
-[Website](https://lunie.io)
+Canadian corporation (?). [Website](https://lunie.io).
 
 ##### Personnel
 
@@ -197,13 +202,19 @@ Service agreement from ICF (?)
 
 #### Althea Network
 
-[Website](https://althea.net/)
+US C-corporation (?). [Website](https://althea.net/).
 
 ##### Personnel
+
+- Justin Kilpatrick
+- Jehan Tremback
+- Deborah Simpier
+- More: https://althea.net/about
+
+Primary contact: Justin Kilpatrick
 
 ##### Project(s)
 
 - Peggy (lead entity)
 
 ##### Resources
-

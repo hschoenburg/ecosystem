@@ -166,8 +166,9 @@ This is a non-comprehensive list of entities participating in "Cosmos core devel
   - Canadian corporation (?).
   - [Website](https://chainsafe.io/#about).
   - Personnel
-    - ?
-  - Primary contact: ?
+    - Austin
+    - Greg
+  - Primary contact: Greg
   - Project(s)
     - Ethermint (lead entity)
   - Resources

@@ -4,30 +4,43 @@ This is a non-comprehensive list of entities participating in "Cosmos core devel
 
 #### Interchain Foundation
 
-##### Representative(s)
+##### Personnel
 
-Fernando, Billy, Bucky
+- Ethan Buchman
+- Arianne Fleming
+- Michael Niederer
+- Fernando Pedone
+- Billy Rennekamp
+
+Primary contact: Billy
 
 ##### Project(s)
 
 - Oversight
-- Funding
+- Funding (grants, service agreements, investments)
 - Communications coordination
-
-##### Financials
-
-- Treasury held in CHF, ATOM, misc.
 
 ##### Resources
 
-- ~3 operations & legal
+- Treasury held in CHF, ATOM, misc.
 - Swiss Army
 
 #### Interchain GmbH
 
-##### Representative(s)
+##### Personnel
 
-Billy, Tess, Chris G.
+- Anna Harbaum
+- Christopher Goes
+- Tess Rinearson
+- Billy Rennekamp
+- Aleksandr Bezobchuk
+- Aditya Sripal
+- Marko Baricevik
+- Callum Waters
+- Erik Grinaker
+- Anton Kaliaev
+
+Primary contacts: Tess, Chris G., Anna.
 
 ##### Project(s)
 
@@ -35,47 +48,50 @@ Billy, Tess, Chris G.
 - IBC specification (lead entity)
 - IBC in Go (lead entity) (prior to 1.0 only)
 - Cosmos SDK (helper entity)
-
-##### Finanicials
-
-Wholly-owned subsidiary of ICF.
+- Developer relations (lead entity?)
 
 ##### Resources
 
-- 1 operations
-- ~10 engineers (mostly employees, a few contractors)
-- Able to hire subject to ICF approval
+Wholly-owned subsidiary of ICF; able to hire subject to ICF approval
 
-#### Informal
+#### Informal Systems
 
-##### Representative(s)
+##### Personnel
 
-Bucky, Sean, Anca
+- Ethan Buchman
+- Arianne Flemming
+- Sean Braithwaite
+- Anca Zamfir
+- More: https://informal.systems/team/
 
 ##### Project(s)
 
 - Formal specification (TLA+) for IBC (lead entity)
 - IBC relayer & implementation in Rust (lead entity)
 - Tendermint implementation in Rust (lead entity)
+- Plaintext accounting tooling (lead entity)
 
 ##### Resources
 
-- 5 researchers
-- 5 engineers
-- ~4 operational support
+Service agreement with ICF.
 
 #### Iqlusion
 
-##### Representative(s)
+##### Personnel
 
-Zaki, Jack
+- Zaki Manian
+- Jack Zampolin
+- Jessy Irwin (subcontractor through Amulet)
+
+Primary contact: Zaki Manian
 
 ##### Project(s)
 
 - IBC relayer in Go (lead entity)
 - Armistice open-source HSM (lead entity)
 - Game of Zones operations (lead entity)
-- Gaia?
+- Ecosystem security & bug bounties (lead entity)
+- Gaia (lead entity?)
 
 ##### Resources
 
@@ -83,7 +99,7 @@ Zaki, Jack
 
 #### Agoric
 
-##### Representative(s)
+##### Personnel
 
 - Dean
 
@@ -96,27 +112,72 @@ Zaki, Jack
 
 #### Regen
 
-##### Representative(s)
+##### Personnel
+
+- Aaron Craelius
+- Gregory Landau
+- Cory Levinson
+
+Lead contact: Aaron Craelius
 
 ##### Project(s)
 
 - Cosmos SDK (lead entity)
+- Own sovereign zone
 
 ##### Resources
 
+Service agreement with ICF, sovereign zone with native token. Ability to hire subject to funding availability.
+
+#### Chorus One
+
+##### Personnel
+
+- Brian Fabian Crain
+
+Primary contact: Brian Fabian Crain
+
+##### Project(s)
+
+- Staking derivatives
+
+##### Resources
+
+#### Figment Networks
+
+##### Personnel
+
+- Gavin Birch
+
+Primary contact: Gavin Birch
+
+##### Project(s)
+
+- Governance working group
+
+##### Resources
+
+Grant from ICF. Validator operations.
+
 #### Lunie
 
-##### Representative(s)
+##### Personnel
+
+- Fabian Weber
+- Jordan Bibla
 
 ##### Project(s)
 
 - Lunie wallet (lead entity)
+- Javascript client libraries (lead entity?)
 
 ##### Resources
 
+Service agreement from ICF (?)
+
 #### Althea Network
 
-##### Representative(s)
+##### Personnel
 
 ##### Project(s)
 

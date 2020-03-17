@@ -6,6 +6,7 @@
   - Who within those entities?
   - Primary points of contact?
   - What's being neglected?
+  - First attempt in [ENTITIES.md](./ENTITIES.md)
 - What kind of structure needs to exist to keep this up-to-date?
   - How to change goals?
   - How to change entity assignations?

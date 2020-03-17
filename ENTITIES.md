@@ -20,7 +20,8 @@ This is a non-comprehensive list of entities participating in "Cosmos core devel
     - Treasury held in CHF, ATOM, misc.
     - Swiss Army
 - Interchain GmbH
-  - German GmbH. [Website](https://interchain.berlin).
+  - German GmbH.
+  - [Website](https://interchain.berlin).
   - Personnel
     - Anna Harbaum
     - Christopher Goes
@@ -43,7 +44,8 @@ This is a non-comprehensive list of entities participating in "Cosmos core devel
     - Wholly-owned subsidiary of ICF
     - Able to hire subject to ICF approval
 - Informal Systems
-  - Canadian corporation (?). [Website](https://informal.systems).
+  - Canadian corporation (?).
+  - [Website](https://informal.systems).
   - Personnel
     - Ethan Buchman
     - Arianne Flemming
@@ -58,7 +60,8 @@ This is a non-comprehensive list of entities participating in "Cosmos core devel
   - Resources
     - Convertible note, 2-year research grant, 2-year service agreement with ICF.
 - Iqlusion
-  - US C-corporation (?). [Website](https://iqlusion.io).
+  - US C-corporation (?).
+  - [Website](https://iqlusion.io).
   - Personnel
     - Zaki Manian
     - Jack Zampolin
@@ -77,7 +80,8 @@ This is a non-comprehensive list of entities participating in "Cosmos core devel
     - Staking rewards & delegation
     - Ability to hire subject to funding availability
 - Agoric
-  - US C-corporation (?). [Website](https://agoric.com/).
+  - US C-corporation (?).
+  - [Website](https://agoric.com/).
   - Personnel
     - Dean Tribble
     - More: https://agoric.com/team/
@@ -89,7 +93,8 @@ This is a non-comprehensive list of entities participating in "Cosmos core devel
   - Resources
     - Service agreement from ICF
 -  Regen
-  - US C-corporation (?) & US non-profit foundation. [Website](https://regen.network).
+  - US C-corporation (?) & US non-profit foundation.
+  - [Website](https://regen.network).
   - Personnel
     - Aaron Craelius
     - Gregory Landau
@@ -117,7 +122,8 @@ This is a non-comprehensive list of entities participating in "Cosmos core devel
     - Grant from ICF
     - Validator operations
 - Figment Networks
-  - Canadian corporation (?).  [Website](https://figment.network/).
+  - Canadian corporation (?).
+  - [Website](https://figment.network/).
   - Personnel
     - Gavin Birch
     - More: https://figment.network/about-figment-networks
@@ -130,7 +136,8 @@ This is a non-comprehensive list of entities participating in "Cosmos core devel
     - Community pool funding for GWG
     - Validator operations
 - Lunie
-  - Canadian corporation. [Website](https://lunie.io).
+  - Canadian corporation.
+  - [Website](https://lunie.io).
   - Personnel
     - Fabian Weber
     - Jordan Bibla
@@ -143,7 +150,8 @@ This is a non-comprehensive list of entities participating in "Cosmos core devel
     - Service agreement from ICF (?)
     - Support from other foundations, users
 - Althea Network
-  - US C-corporation (?). [Website](https://althea.net/).
+  - US C-corporation (?).
+  - [Website](https://althea.net/).
   - Personnel
     - Justin Kilpatrick
     - Jehan Tremback

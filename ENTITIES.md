@@ -4,6 +4,8 @@ This is a non-comprehensive list of entities participating in "Cosmos core devel
 
 #### Interchain Foundation
 
+[Website](https://interchain.io/)
+
 ##### Personnel
 
 - Ethan Buchman
@@ -12,7 +14,7 @@ This is a non-comprehensive list of entities participating in "Cosmos core devel
 - Fernando Pedone
 - Billy Rennekamp
 
-Primary contact: Billy
+Primary contact: Billy Rennekamp.
 
 ##### Project(s)
 
@@ -26,6 +28,8 @@ Primary contact: Billy
 - Swiss Army
 
 #### Interchain GmbH
+
+[Website](https://interchain.berlin)
 
 ##### Personnel
 
@@ -56,6 +60,8 @@ Wholly-owned subsidiary of ICF; able to hire subject to ICF approval
 
 #### Informal Systems
 
+[Website](https://informal.systems)
+
 ##### Personnel
 
 - Ethan Buchman
@@ -76,6 +82,8 @@ Wholly-owned subsidiary of ICF; able to hire subject to ICF approval
 Service agreement with ICF.
 
 #### Iqlusion
+
+[Website](https://iqlusion.io)
 
 ##### Personnel
 
@@ -99,9 +107,13 @@ Primary contact: Zaki Manian
 
 #### Agoric
 
+[Website](https://agoric.com/)
+
 ##### Personnel
 
-- Dean
+- Dean Tribble
+
+Primary contact: Dean Tribble
 
 ##### Project(s)
 
@@ -112,13 +124,15 @@ Primary contact: Zaki Manian
 
 #### Regen
 
+[Website](https://regen.network)
+
 ##### Personnel
 
 - Aaron Craelius
 - Gregory Landau
 - Cory Levinson
 
-Lead contact: Aaron Craelius
+Primary contact: Aaron Craelius
 
 ##### Project(s)
 
@@ -130,6 +144,8 @@ Lead contact: Aaron Craelius
 Service agreement with ICF, sovereign zone with native token. Ability to hire subject to funding availability.
 
 #### Chorus One
+
+[Website](https://chorus.one)
 
 ##### Personnel
 
@@ -144,6 +160,8 @@ Primary contact: Brian Fabian Crain
 ##### Resources
 
 #### Figment Networks
+
+[Website](https://figment.network/)
 
 ##### Personnel
 
@@ -161,6 +179,8 @@ Grant from ICF. Validator operations.
 
 #### Lunie
 
+[Website](https://lunie.io)
+
 ##### Personnel
 
 - Fabian Weber
@@ -176,6 +196,8 @@ Grant from ICF. Validator operations.
 Service agreement from ICF (?)
 
 #### Althea Network
+
+[Website](https://althea.net/)
 
 ##### Personnel
 

@@ -3,6 +3,10 @@
 - What does the Cosmos ecosystem need to succeed?
   - First attempt in [STATE_OF_COSMOS.md](./STATE_OF_COSMOS.md)
 - What are all the entities currently doing?
+  - Who within those entities?
+  - Primary points of contact?
+  - What's being neglected?
+  - First attempt in [ENTITIES.md](./ENTITIES.md)
 - What kind of structure needs to exist to keep this up-to-date?
   - Review the repo with a cadence that could be in sync with meetings? Maybe every 4 weeks confirm contents of this doc as part of the meeting?
   - How to change goals?

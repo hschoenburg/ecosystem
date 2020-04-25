@@ -75,6 +75,9 @@ This is a non-comprehensive list of entities participating in "Cosmos core devel
     - Ecosystem security & bug bounties (lead entity, subcontracted to Amulet)
     - Tendermint KMS (lead entity)
     - Gaia (lead entity?)
+        - All In Bits Inc
+        - (Website coming soon)
+
   - Resources
     - Private investment
     - Staking rewards & delegation
